@@ -1,6 +1,3 @@
-# Crypto_Clustering-challenge
-In this challenge, you’ll use your knowledge of Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
-
 # Crypto Clustering Challenge
 
 This project is a challenge to use unsupervised learning techniques to cluster cryptocurrencies based on their 24-hour and 7-day price changes. The goal is to identify patterns and group similar cryptocurrencies together.
