@@ -12,7 +12,7 @@ This project is a challenge to use unsupervised learning techniques to cluster c
 ## Files
 
 - `crypto_market_data.csv`: The dataset containing cryptocurrency market data.
-- `Crypto_Clustering_starter_code.ipynb`: The Jupyter notebook with the starter code for the challenge.
+- `Crypto_Clustering.ipynb`: The Jupyter notebook with the starter code for the challenge.
 
 ## Steps
 
